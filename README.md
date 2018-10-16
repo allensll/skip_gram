@@ -1,5 +1,7 @@
 # PyTorch Skip-Gram Model
 
+pytorch skip-gram implementation and use word vectors to sentiment analysis.
+
 used datasets [wikitext-2](https://www.salesforce.com/products/einstein/ai-research/the-wikitext-dependency-language-modeling-dataset/)
 [aclImdb](http://ai.stanford.edu/~amaas/data/sentiment/)
 
